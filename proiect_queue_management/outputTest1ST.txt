@@ -1,0 +1,235 @@
+1 25 3
+2 23 4
+3 21 3
+4 29 3
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 0
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 1
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 2
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 3
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 4
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 5
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 6
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 7
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 8
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 9
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 10
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 11
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 12
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 13
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 14
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 15
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 16
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 17
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 18
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 19
+queue0= 
+queue1= 
+
+Waiting line:
+(3,21,3) (2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 20
+queue0= 
+queue1= 
+
+Waiting line:
+(2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 21
+queue0= (3,21,3)
+queue1= 
+
+Waiting line:
+(2,23,4) (1,25,3) (4,29,3) 
+
+Timp: 22
+queue0= (3,21,2)
+queue1= 
+
+Waiting line:
+(1,25,3) (4,29,3) 
+
+Timp: 23
+queue0= (3,21,1)
+queue1= (2,23,4)
+
+Waiting line:
+(1,25,3) (4,29,3) 
+
+Timp: 24
+queue0= 
+queue1= (2,23,3)
+
+Waiting line:
+(4,29,3) 
+
+Timp: 25
+queue0= (1,25,3)
+queue1= (2,23,2)
+
+Waiting line:
+(4,29,3) 
+
+Timp: 26
+queue0= (1,25,2)
+queue1= (2,23,1)
+
+Waiting line:
+(4,29,3) 
+
+Timp: 27
+queue0= (1,25,1)
+queue1= 
+
+Waiting line:
+(4,29,3) 
+
+Timp: 28
+queue0= 
+queue1= 
+
+Waiting line:
+
+
+Timp: 29
+queue0= 
+queue1= (4,29,3)
+
+Waiting line:
+
+
+Timp: 30
+queue0= 
+queue1= (4,29,2)
+
+Waiting line:
+
+
+Timp: 31
+queue0= 
+queue1= (4,29,1)
+
+Waiting line:
+
+
+Timp: 32
+queue0= 
+queue1= 

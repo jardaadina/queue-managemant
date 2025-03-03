@@ -1,0 +1,158 @@
+1 8 4
+2 14 2
+3 17 4
+4 11 3
+
+Waiting line:
+(1,8,4) (4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 0
+queue0= 
+queue1= 
+
+Waiting line:
+(1,8,4) (4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 1
+queue0= 
+queue1= 
+
+Waiting line:
+(1,8,4) (4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 2
+queue0= 
+queue1= 
+
+Waiting line:
+(1,8,4) (4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 3
+queue0= 
+queue1= 
+
+Waiting line:
+(1,8,4) (4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 4
+queue0= 
+queue1= 
+
+Waiting line:
+(1,8,4) (4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 5
+queue0= 
+queue1= 
+
+Waiting line:
+(1,8,4) (4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 6
+queue0= 
+queue1= 
+
+Waiting line:
+(1,8,4) (4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 7
+queue0= 
+queue1= 
+
+Waiting line:
+(4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 8
+queue0= (1,8,4)
+queue1= 
+
+Waiting line:
+(4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 9
+queue0= (1,8,3)
+queue1= 
+
+Waiting line:
+(4,11,3) (2,14,2) (3,17,4) 
+
+Timp: 10
+queue0= (1,8,2)
+queue1= 
+
+Waiting line:
+(2,14,2) (3,17,4) 
+
+Timp: 11
+queue0= (1,8,1)
+queue1= (4,11,3)
+
+Waiting line:
+(2,14,2) (3,17,4) 
+
+Timp: 12
+queue0= 
+queue1= (4,11,2)
+
+Waiting line:
+(2,14,2) (3,17,4) 
+
+Timp: 13
+queue0= 
+queue1= (4,11,1)
+
+Waiting line:
+(3,17,4) 
+
+Timp: 14
+queue0= (2,14,2)
+queue1= 
+
+Waiting line:
+(3,17,4) 
+
+Timp: 15
+queue0= (2,14,1)
+queue1= 
+
+Waiting line:
+(3,17,4) 
+
+Timp: 16
+queue0= 
+queue1= 
+
+Waiting line:
+
+
+Timp: 17
+queue0= (3,17,4)
+queue1= 
+
+Waiting line:
+
+
+Timp: 18
+queue0= (3,17,3)
+queue1= 
+
+Waiting line:
+
+
+Timp: 19
+queue0= (3,17,2)
+queue1= 
+
+Waiting line:
+
+
+Timp: 20
+queue0= (3,17,1)
+queue1= 
+
+Waiting line:
+
+
+Timp: 21
+queue0= 
+queue1= 
